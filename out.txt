@@ -1,0 +1,61 @@
+
+Size is 4X4
+Number of Blocks is 3
+BFS failed because  15 minute exceeded 
+
+DFS time = 144 ms
+Nodes expanded : 4295
+
+IDS time = 1870 ms
+Nodes expanded : 7849127
+Solution path is : U L L D L U R D R U U L D L 
+
+A* time = 27 ms
+Nodes expanded : 20421
+Solution path is : U L L D L U R D R U U L D L 
+
+Size is 5X5
+Number of Blocks is 3
+
+DFS time = 0 ms
+Nodes expanded : 250
+
+IDS time = 4756 ms
+Nodes expanded : 47447008
+Solution path is : U L L L D L U R D R U U L D L 
+
+A* time = 53 ms
+Nodes expanded : 63625
+Solution path is : U L L L D L U R D R U U L D L 
+
+Size is 6X6
+Number of Blocks is 3
+
+DFS time = 975 ms
+Nodes expanded : 1439796
+IDS failed because  15 minute exceeded 
+
+A* time = 1490 ms
+Nodes expanded : 492364
+Solution path is : L L U L L D L U R D R U U L D L 
+
+Size is 7X7
+Number of Blocks is 3
+
+DFS time = 610 ms
+Nodes expanded : 715974
+
+A* time = 12598 ms
+Nodes expanded : 1712537
+Solution path is : U L L L L L D L U R D R U U L D L 
+
+Size is 8X8
+Number of Blocks is 3
+
+DFS time = 10888 ms
+Nodes expanded : 5111274
+A* failed because  15 minute exceeded 
+
+Size is 9X9
+Number of Blocks is 3
+DFS failed because  15 minute exceeded 
